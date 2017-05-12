@@ -1,0 +1,8 @@
+D:\Documents\LC101\Studios\AddTwoLists\bin\Debug\netcoreapp1.1\AddTwoLists.deps.json
+D:\Documents\LC101\Studios\AddTwoLists\bin\Debug\netcoreapp1.1\AddTwoLists.runtimeconfig.json
+D:\Documents\LC101\Studios\AddTwoLists\bin\Debug\netcoreapp1.1\AddTwoLists.runtimeconfig.dev.json
+D:\Documents\LC101\Studios\AddTwoLists\obj\Debug\netcoreapp1.1\AddTwoLists.AssemblyInfo.cs
+D:\Documents\LC101\Studios\AddTwoLists\bin\Debug\netcoreapp1.1\AddTwoLists.dll
+D:\Documents\LC101\Studios\AddTwoLists\bin\Debug\netcoreapp1.1\AddTwoLists.pdb
+D:\Documents\LC101\Studios\AddTwoLists\obj\Debug\netcoreapp1.1\AddTwoLists.dll
+D:\Documents\LC101\Studios\AddTwoLists\obj\Debug\netcoreapp1.1\AddTwoLists.pdb

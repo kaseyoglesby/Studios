@@ -1,0 +1,9 @@
+D:\Documents\LC101\Studios\Studios\bin\Debug\netcoreapp1.1\Studios.deps.json
+D:\Documents\LC101\Studios\Studios\bin\Debug\netcoreapp1.1\Studios.runtimeconfig.json
+D:\Documents\LC101\Studios\Studios\bin\Debug\netcoreapp1.1\Studios.runtimeconfig.dev.json
+D:\Documents\LC101\Studios\Studios\bin\Debug\netcoreapp1.1\Studios.dll
+D:\Documents\LC101\Studios\Studios\bin\Debug\netcoreapp1.1\Studios.pdb
+D:\Documents\LC101\Studios\Studios\obj\Debug\netcoreapp1.1\Studios.csprojResolveAssemblyReference.cache
+D:\Documents\LC101\Studios\Studios\obj\Debug\netcoreapp1.1\Studios.AssemblyInfo.cs
+D:\Documents\LC101\Studios\Studios\obj\Debug\netcoreapp1.1\Studios.dll
+D:\Documents\LC101\Studios\Studios\obj\Debug\netcoreapp1.1\Studios.pdb
